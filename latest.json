@@ -1,0 +1,9 @@
+{
+  "version": "v0.1.8",
+  "notes": "Kingpin Desktop v0.1.8",
+  "url": "https://github.com/kingpinsec/kingpin-desktop-releases/releases/tag/v0.1.8",
+  "zip": "https://github.com/kingpinsec/kingpin-desktop-releases/releases/download/v0.1.8/Kingpin-v0.1.8-macos.zip",
+  "zipSig": "https://github.com/kingpinsec/kingpin-desktop-releases/releases/download/v0.1.8/Kingpin-v0.1.8-macos.zip.sig",
+  "dmg": "https://github.com/kingpinsec/kingpin-desktop-releases/releases/download/v0.1.8/Kingpin-v0.1.8-macos.dmg",
+  "dmgSig": "https://github.com/kingpinsec/kingpin-desktop-releases/releases/download/v0.1.8/Kingpin-v0.1.8-macos.dmg.sig"
+}
